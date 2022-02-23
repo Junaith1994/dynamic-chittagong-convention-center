@@ -1,5 +1,6 @@
 .banner-s1-text {
-    color: #4a69bd;
+    color:rgba(255, 255, 255, 0.884);
+    background-color: rgba(3, 3, 87, 0.336);
 }
 .banner-s2-text {
     color: rgba(255, 255, 255, 0.884);
@@ -33,5 +34,5 @@ color:rgb(247, 247, 247);
 /* Footer Styles */
 .footer-styles {
     background-color: rgb(2, 2, 37);
-    padding: 100px;
+    padding: 50px;
 }
